@@ -1,0 +1,52 @@
+header {
+    padding: 10px;
+    background-color: silver;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    font-size: 30px;
+    font-family: 'Grenze Gotisch', cursive;
+    color: lightseagreen;
+}
+
+.navbar {
+    position: fixed;
+}
+
+.carousel {
+    padding: 15px;
+    margin: 10px;
+}
+
+.container {
+    padding: 15px;
+    margin: auto;
+}
+
+#likes {
+    background-color: greenyellow;
+    border-radius: 30px;
+    margin: 25px;
+    padding: 15px;
+}
+
+#dislikes {
+    background-color: red;
+    border-radius: 30px;
+    margin: 25px;
+    padding: 15px;
+}
+
+h4 {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://media0.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: relative;
+}
+
